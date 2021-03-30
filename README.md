@@ -4,7 +4,12 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Pedro Álvarez Monteagudo (pedro-alvarez-monteagudo)
+Alejandro Bonilla Hervás (alejandro-bonilla)
+Álvaro Gómez Agudo (alvarogomez29)
+Mario Fernández Lietor (mario1910)
+Nuria Garrido Giménez (nuria0509)
+
 
 ## Objetivos del trabajo
 
