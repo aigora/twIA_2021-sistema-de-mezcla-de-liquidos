@@ -1,4 +1,4 @@
-# [Sistema de mezcla de liquidos]
+# Sistema de mezcla de liquidos
 
 [Descripción breve del proyecto a realizar (2-3 frases).]
 
