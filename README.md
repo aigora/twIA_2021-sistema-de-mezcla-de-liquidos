@@ -17,7 +17,7 @@ Nuria Garrido Giménez(nuria0509)
 
 ## Objetivos del trabajo
 
-Diseñar y desarrollar un sistema dispensador de  varios líquidos programado en lenguaje avanzado C++  que permita realizar diferentes mezclas, previamente programadas con dichos líquidos. Mediante un sistema de microválvulas.
+Diseñar y desarrollar un sistema dispensador de  varios líquidos programado en lenguaje avanzado C++  que permita realizar diferentes mezclas previamente programadas con dichos líquidos mediante un sistema de microválvulas.
 
 
 
