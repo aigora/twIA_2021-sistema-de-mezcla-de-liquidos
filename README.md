@@ -20,5 +20,5 @@ Objetivo:
 Diseñar y desarrollar un sistema dispensador de  varios líquidos programados en lenguaje avanzado C++  que permita realizar diferentes mezclas, previamente programadas con dichos líquidos.
 
 Especificaciones del funcionamiento:
-El proyecto consiste en realizar una maqueta inicial mediante la cual el cliente pueda elegir dentro de las opciones predeterminadas una bebida inicial. Para ello vamos a usar  herramientas como Visual y Arduino. 
+El proyecto consiste en realizar una maqueta inicial mediante la cual el cliente pueda elegir dentro de las opciones predeterminadas una bebida inicial. Para ello vamos a usar  herramientas como Visual y Arduino.
 
