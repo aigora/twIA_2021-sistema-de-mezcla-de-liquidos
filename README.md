@@ -8,9 +8,9 @@ Pedro Álvarez Monteagudo 👨‍❤️‍💋‍👨🧂🥛🍼🌈🏳‍🌈
 
 Alejandro Bonilla Hervás 👨‍❤️‍💋‍👨🧂🥛🍼🌈🏳‍🌈👨‍❤️‍💋‍👨🧂🥛🍼🌈🏳‍🌈(alejandro-bonilla)
 
-Álvaro Gómez Agudo👨‍❤️‍💋‍👨🧂🥛🍼🌈🏳‍🌈 (alvarogomez29)
+Álvaro Gómez Agudo (alvarogomez29)
 
-Mario Fernández Liétor(mario1910)
+Mario Fernández Liétor👨‍❤️‍💋‍👨🧂🥛🍼🌈🏳‍🌈👨🏻‍🤝‍👨🏻🤠😈🍌(mario1910)
 
 Nuria Garrido Giménez (nuria0509)
 
