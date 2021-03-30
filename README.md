@@ -26,11 +26,11 @@ Menú:
 
 ## Opción 1-Abrir o cerrar cualquiera de las válvulas
 
-El programa consta de diferentes funciones, entre las cuales,el usuario de la aplicación debe elegir los líquidos que desea mezclar, para ejecutar el programa. Después de establecer los datos dos de las microválvulas se abriran y consecuentemente obtendremos la mezcla deseada.
+El programa consta de diferentes funciones, entre las cuales,el usuario de la aplicación debe elegir los líquidos que desea mezclar, para ejecutar el programa. Después de establecer los datos dos de las microválvulas se abrirán y consecuentemente obtendremos la mezcla deseada.
 
 ## Opción 2-Encender la bomba de agua
 
-el sistema incluirá una bomba de agua, cuya función será impulsar los líquidos para que estos se situen en la proveta indicada.
+El sistema incluirá una bomba de agua, cuya función será impulsar los líquidos para que estos se situen en la probeta indicada.
 
 
 
