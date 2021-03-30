@@ -12,7 +12,7 @@ Alejandro Bonilla Hervás(alejandro-bonilla)
 
 Mario Fernández Liétor(mario1910)
 
-Nuria Garrido Giménez(nuria0509)👉🏿👌
+Nuria Garrido Giménez(nuria0509)
 
 
 ## Objetivos del trabajo
