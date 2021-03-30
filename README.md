@@ -8,7 +8,7 @@ Pedro Álvarez Monteagudo(pedro-alvarez-monteagudo)
 
 Alejandro Bonilla Hervás(alejandro-bonilla)
 
-Álvaro Gómez Agudo🌈🌈🌈🌈🌈🌈🌈🌈(alvarogomez29)
+Álvaro Gómez Agudo(alvarogomez29)
 
 Mario Fernández Liétor(mario1910)
 
