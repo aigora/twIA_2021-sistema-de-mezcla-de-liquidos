@@ -32,6 +32,5 @@ El programa consta de diferentes funciones, entre las cuales,el usuario de la ap
 
 el sistema incluirá una bomba de agua, cuya función será impulsar los líquidos para que estos se situen en la proveta indicada.
 
-##Especificaciones del funcionamiento:
-El proyecto consiste en realizar una maqueta inicial mediante la cual el cliente pueda elegir dentro de las opciones predeterminadas una bebida inicial. Para ello vamos a usar  herramientas como Visual y Arduino.
+
 
