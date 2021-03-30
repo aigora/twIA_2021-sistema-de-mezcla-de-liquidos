@@ -1,6 +1,6 @@
 # Sistema de mezcla de liquidos
 
-El proyecto consiste en un sistema automatizado de mezcla de liquidos en el cual el consumidor elige el refresco que desea que tomar entre los posibles.
+El proyecto consiste en un sistema automatizado de mezcla de liquidos en el cual el consumidor elige el refresco que desea tomar entre los posibles.
 
 ## Integrantes del equipo
 
