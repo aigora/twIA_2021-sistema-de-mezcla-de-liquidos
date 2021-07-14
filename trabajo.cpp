@@ -4,11 +4,6 @@
 #include <locale.h>
 #include <string.h>
 
-// Se define la versi�n que se deseea compilar.
-// VERSION_1: Vectores de tama�o predeterminado (N).
-// VERSION_2: Vectores en memoria din�mica. Tama�o flexible en memoria consecutiva.
-// VERSION_3: Listas enlazadas en memoria din�mica.
-
 
 #define SI 1
 #define NO 0
