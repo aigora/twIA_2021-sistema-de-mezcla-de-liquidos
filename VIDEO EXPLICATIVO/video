@@ -1,1 +1,3 @@
-
+En este video se observa el funcionamiento de nuestro sistema electrónico.
+Por factores de tiempo, y integrantes del grupo (finalmente realizamos el trabajo entre dos alumnos, Pedro Alvarez y Álvaro Gómez) no hemos podido conectar correctamente el programa visual con arduino. Sin embargo, como se aprecia en el video, al conectar la fuente conseguimos que los relés activen las válvulas solenoide con autonomía, permitiendo así el paso de líquidos.
+También hemos programado mediante arduino una alerta de desbordamiento, que activa un led rojo cuando el sensor de agua detecta humedad.
