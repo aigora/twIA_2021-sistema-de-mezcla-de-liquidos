@@ -1,9 +1,9 @@
-//Coded: Oscar Escobar_24_01_2017
+
 //Se definen las variables que cuentan en SEGUNDOS
-unsigned int tRele[]={39500, 1800, 1200}; //Conteo máximo. El último = in2 Rele(Casa).
-                    //Salida del pin9 = 39500 segundos
-                    //Salida del pin10 = 1800 segundos
-                    //Salida del pin11 = 1200segundos
+unsigned int tRele[]={100, 100, 100}; //Conteo máximo. 
+                    //Salida del pin9 = 100 segundos
+                    //Salida del pin10 = 100 segundos
+                    //Salida del pin11 = 100segundos
 unsigned int tBase[]={0, 0, 0};//Contadores de tiempo
 
 //Activacion de los Reles
@@ -19,7 +19,7 @@ int sMainRele = 12;//Rele principal de la serie de elctroválvulas
 //LED intero Arduino UNO=pin 13=LED_BUILTIN
 int pinEstado = LED_BUILTIN;//Pin de estado de Arduino
 
-//Se definen las entradas (Pulsadores):
+//EN UN PRINCIPIO IBAMOS A USAR PULSADORES QUE ACTIVARAN LAS VALVULAS
 int eRele[]={8,7,6};
 
 //Variables de tiempo 
@@ -46,15 +46,7 @@ for (i=0;i<numSalidas;i++){
   pinMode(eRele[i], INPUT);
 }
 
-//Monitor Auxiliar
-//Serial.begin(9600);
-digitalWrite(sRele[0], HIGH);
-digitalWrite(sRele[1], HIGH);
-digitalWrite(sRele[2], HIGH);
-digitalWrite(sMainRele, HIGH);
-delay(200); //para estabilizar el sistema
-digitalWrite(pinEstado, blinkState);//Indicador de funcionamiento
-}
+
 
 void loop() {
 //Lectura de las entradas:
@@ -124,18 +116,12 @@ for (i=0;i<3;i++){
       }
     }
 
-//Monitoreo de variables, aca se pueden efectuar otros procesos.
-//    int temp=tBase[0];
-//    String asEnvio="Enviando: ";
-//    asEnvio+=temp;
-//    asEnvio+=" ";
-//    asEnvio+=numSalidas;
-//    Serial.println(asEnvio);
+
 
 //Cambiar estado del LED interno, o LED de estado.
     digitalWrite(pinEstado, blinkState);
     
-  }else if (currentMillis < previousMillis){//Desborde después de 49 días
+  }else if (currentMillis < previousMillis){
       previousMillis=currentMillis;
   }
   
